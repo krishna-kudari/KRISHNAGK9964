@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=48&pause=1000&color=F78C48&width=701&height=80&lines=Hey!++I+Am+Krishna;I+Am+A+Full+Stack+Developer;Also+A+Coding+Enthusiast;Thank+You+For+Visiting+My+Profile)](https://git.io/typing-svg)
 
+<p>
+<img src="dark-gif1.gif" alt="gif" />
+</p>
 
 <h3> Here's some fun facts about me: </h3>
 
