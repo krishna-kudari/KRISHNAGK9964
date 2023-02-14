@@ -32,7 +32,7 @@
 [![LeetCode shield][leetcode-shield]][leetcode-url]
 
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-v1.0-pink?style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116&labelColor=000000
-[leetcode-url]: https://leetcode.com/
+[leetcode-url]: https://leetcode.com/Kkrishna22572
 
 
 ### 👉 Frameworks
