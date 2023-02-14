@@ -3,19 +3,10 @@
 <img src="https://profile-counter.glitch.me/KRISHNA9964//count.svg">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=48&pause=1000&color=F78C48&width=701&height=80&lines=Hey!++I+Am+Krishna;I+Am+A+Full+Stack+Developer;Also+A+Coding+Enthusiast;Thank+You+For+Visiting+My+Profile)](https://git.io/typing-svg)
-
 <p>
-<img src="dark-gif1.gif" alt="gif" />
+<img src="text.png" alt="text" />
+<img src="dark-gif1-300.gif" alt="gif" />
 </p>
-
-<h3> Here's some fun facts about me: </h3>
-
-- 🔭 I’m currently working on Nextjs Projects
-- 🌱 I've been into web development for more than 2 years , and built many web applications
-- 👯 I’m looking to collaborate on NextJS, ReactJs and MERN Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or DSA
-
 
 <p>Connect with me on
 <br>	
